@@ -4,7 +4,7 @@ Detection of floating aquatic vegetation and algae in the waters between Samos I
 
 This project was developed as part of a volunteer initiative focused on environmental monitoring of coastal Mediterranean ecosystems.
 The aim of this project is to detect and map aquatic vegetation - including floating algae, phytoplankton blooms, and potential Posidonia oceanica meadows — on the sea surface in the study area, using spectral indices derived from multispectral satellite data.
-### Version 1 — NDVI + NDWI approach (initial)
+### Version 1 - NDVI + NDWI approach (initial)
 
 The first version combined two spectral indices:
 - **NDVI** *(Normalized Difference Vegetation Index)* — NIR (B8) and Red (B4)
