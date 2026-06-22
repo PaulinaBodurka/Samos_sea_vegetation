@@ -3,7 +3,7 @@
 Detection of floating aquatic vegetation and algae in the waters between Samos Island (Greece) and the Turkish coast using multitemporal Sentinel-2 satellite imagery and Google Earth Engine.
 
 This project was developed as part of a volunteer initiative focused on environmental monitoring of coastal Mediterranean ecosystems.
-The aim of this project is to detect and map aquatic vegetation — including floating algae, phytoplankton blooms, and potential Posidonia oceanica meadows — on the sea surface in the study area, using spectral indices derived from multispectral satellite data.
+The aim of this project is to detect and map aquatic vegetation - including floating algae, phytoplankton blooms, and potential Posidonia oceanica meadows — on the sea surface in the study area, using spectral indices derived from multispectral satellite data.
 ### Version 1 — NDVI + NDWI approach (initial)
 
 The first version combined two spectral indices:
@@ -19,7 +19,7 @@ combined_mask = vegetation_mask.Or(water_mask)
 
 ---
 
-### Version 2 — FAI-based approach (improved)
+### Version 2 - FAI-based approach (improved)
 The improved version uses the **Floating Algae Index (FAI)**, specifically designed to detect surface algae and floating vegetation in marine environments.
 
 **FAI formula:**
